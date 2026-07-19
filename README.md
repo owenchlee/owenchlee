@@ -3,7 +3,7 @@
 Engineering student at the University of Waterloo.
 
 **Currently building**
-- 🍽️ [FoodFindr](https://github.com/owenchlee/FoodFindr) — gamified restaurant discovery, going from mock data → real APIs → DB-backed prefs. Built solo.
+- 🍽️ [FoodFindr](https://github.com/owenchlee/FoodFindr) a gamified restaurant discovery, going from mock data → real APIs → DB-backed prefs. Built solo.
 
 **Recently**
 - Won at Hackclub Daydream Hackathon
