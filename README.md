@@ -9,9 +9,9 @@ Engineering student at the University of Waterloo.
 - Won at Hackclub Daydream Hackathon
 
 **Stack I use**
-`JavaScript` `React` `Node.js` `Git`
+- `JavaScript` `React` `Node.js` `Git`
 
 **What I'm doing this year**
-Starting at Waterloo, shipping side projects, looking for co-op.
+- Starting at Waterloo, shipping side projects, looking for co-op.
 
 📫 Reach me: itsowenchlee@gmail.com
