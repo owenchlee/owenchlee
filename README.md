@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hey, I'm Owen 👋
 
-<!--
-**owenchlee/owenchlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering student at the University of Waterloo.
 
-Here are some ideas to get you started:
+**Currently building**
+- 🍽️ [FoodFindr](#) — gamified restaurant discovery, going from mock data → real APIs → DB-backed prefs. Built solo.
 
-- 🔭 I’m currently working on stuff
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: owenchlee@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Recently**
+- Won at Hackclub Daydream Hackathon
+
+**Stack I use**
+`JavaScript` `React` `Node.js` `Git`
+
+**What I'm doing this year**
+Starting at Waterloo, shipping side projects, looking for co-op.
+
+📫 Reach me: itsowenchlee@gmail.com
