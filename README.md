@@ -2,8 +2,8 @@
 
 Check out my personal website [owenchlee.me](https://owenchlee.me)
 
-**Currently building**
-- 🍽️ [FoodFindr](https://github.com/owenchlee/FoodFindr) a gamified restaurant discovery, going from mock data → real APIs → DB-backed prefs. Built solo.
+**Shipped**
+- 🍽️ [FoodFindr](foodfindr.tech) a gamified restaurant discovery, going from mock data → real APIs → DB-backed prefs. Built solo.
 
 **Recently**
 - Won at Hackclub Daydream Hackathon
