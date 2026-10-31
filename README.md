@@ -12,6 +12,6 @@ Engineering student at the University of Waterloo.
 - `JavaScript` `React` `Node.js` `Git`
 
 **What I'm doing this year**
-- Starting at Waterloo, shipping side projects, looking for co-op.
+- Studying Systems Design Engineering at Waterloo, shipping side projects, looking for co-op.
 
 📫 Reach me: itsowenchlee@gmail.com
