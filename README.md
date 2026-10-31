@@ -1,6 +1,6 @@
 ### Hey, I'm Owen 👋
 
-Engineering student at the University of Waterloo.
+Check out my personal website [owenchlee.me](https://owenchlee.me)
 
 **Currently building**
 - 🍽️ [FoodFindr](https://github.com/owenchlee/FoodFindr) a gamified restaurant discovery, going from mock data → real APIs → DB-backed prefs. Built solo.
