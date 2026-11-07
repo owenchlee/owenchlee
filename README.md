@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/wave.svg" alt="" width="100%">
+  <img src="assets/dragon.svg" alt="" width="100%">
 </p>
 
 <h3 align="center">Hey, I'm Owen 👋</h3>
