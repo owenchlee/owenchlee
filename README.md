@@ -5,7 +5,7 @@
 <h3 align="center">Hey, I'm Owen 👋</h3>
 
 <p align="center">
-  Systems Design Engineering @ Waterloo · building side projects · looking for co-op<br>
+  Systems Design Engineering @ Waterloo · building side projects · looking for Summer 2027 co-op<br>
   <a href="mailto:itsowenchlee@gmail.com">itsowenchlee@gmail.com</a>
 </p>
 
@@ -16,7 +16,7 @@
 ---
 
 ### 🚀 Shipped
-- 🍽️ **[FoodFindr](https://foodfindr.tech)**: a map-based restaurant finder that recommends one specific spot + dish for your budget, cuisine, and distance. Mock data → real APIs → DB-backed prefs. Built solo.
+- 🍽️ **[FoodFindr](https://foodfindr.tech)**
 
 ### 🛠️ Recent projects
 - 🔌 **[Glowire](https://github.com/owenchlee/Glowire)**: circuit-building mobile game
@@ -30,6 +30,3 @@
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-### 🎯 This year
-Studying Systems Design Engineering, shipping side projects, and looking for a co-op.
