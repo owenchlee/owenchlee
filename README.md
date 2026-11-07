@@ -10,8 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://owenchlee.me"><img alt="owenchlee.me" src="https://img.shields.io/badge/🌐_Website-owenchlee.me-58a6ff?style=for-the-badge"></a>
-  <a href="https://foodfindr.tech"><img alt="foodfindr.tech" src="https://img.shields.io/badge/🍽️_FoodFindr-foodfindr.tech-3fb950?style=for-the-badge"></a>
+<a href="https://owenchlee.me"><img alt="owenchlee.me" src="https://img.shields.io/badge/🌐_Website-owenchlee.me-58a6ff?style=for-the-badge"></a><a href="https://foodfindr.tech"><img alt="foodfindr.tech" src="https://img.shields.io/badge/🍽️_FoodFindr-foodfindr.tech-3fb950?style=for-the-badge"></a>
 </p>
 
 ---
