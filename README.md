@@ -19,7 +19,7 @@
 - 🍽️ **[FoodFindr](https://foodfindr.tech)**
 
 ### 🛠️ Recent projects
-- 🔌 **[Glowire](https://github.com/owenchlee/Glowire)**: circuit-building mobile game
+- 🔌 **[Glowire](https://github.com/owenchlee/Glowire)**: circuit-building RPG
 - 🎤 [SingScore](https://github.com/owenchlee/SingScore) · 🔗 [TappedIn](https://github.com/owenchlee/TappedIn) · 🪞 [Reframe](https://github.com/owenchlee/Reframe) · 🎬 [Flick](https://github.com/owenchlee/Flick)
 
 ### 🏆 Highlights
